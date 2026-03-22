@@ -1,0 +1,12 @@
+{
+    name: "extended-ui"
+    displayName: "[orange]Extended[gold] UI+"
+    author: "Simuss"
+    description: "Extends your UI with useful features."
+    version: "1.0.0"
+    minGameVersion: "154"
+    main: "scripts/main"
+    hidden: true
+    java: false
+    script: true
+}
