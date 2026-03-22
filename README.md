@@ -4,7 +4,6 @@
 [![Mindustry Version](https://img.shields.io/badge/Mindustry-v154+-orange)](https://mindustrygame.github.io/)
 [![Mod Version](https://img.shields.io/badge/version-1.0.0-gold)](https://github.com/Simuss/Extended-UI-Plus)
 [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
-[![Discord](https://img.shields.io/badge/discord-wizer1233-7289da)](https://discord.gg/yp9ZW7j)
 
 **Расширьте свой интерфейс полезными функциями!**
 
