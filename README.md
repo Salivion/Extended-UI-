@@ -1,4 +1,3 @@
-# Extended-UI-
 # Extended UI+
 
 [![Mindustry Version](https://img.shields.io/badge/Mindustry-v154+-orange)](https://mindustrygame.github.io/)
